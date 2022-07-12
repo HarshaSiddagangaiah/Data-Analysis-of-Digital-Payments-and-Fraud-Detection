@@ -1,4 +1,4 @@
-# fraud-system
+# Fraud-System: Data Analysis of Digital Payments and Fraud Detection
 Financial fraud is an ever-increasing threat with far-reaching implications. The quantity of online transactions has increased dramatically, with online credit card transactions accounting for a substantial portion of these. As a result, banks and financial institutions place a high importance on credit card fraud detection software. Fraudulent transactions can take many forms and fall under a variety of categories. This paper examines common types of fraud in real-world transactions. This paper investigates the performance of 5 models: Gradient Boosting Classifier, XGBoost, Support Vector Machine, Random Forest and Logistic Regression on highly skewed credit card fraud data. The results demonstrate that XGBoost performs better than all the other classifiers with F1 Score, Accuracy and Precision of 73% to detect frauds.
 
 # Code description and Specification
