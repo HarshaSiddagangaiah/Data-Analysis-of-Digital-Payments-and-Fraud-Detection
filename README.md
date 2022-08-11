@@ -37,5 +37,5 @@ Financial fraud is an ever-increasing threat with far-reaching implications. The
  • XGBoost Classifier which gives highest of 73% accuracy compared to other models
 
 Note: Detailed Code description and Specification is also provided in Google colab file.
-Google Colab File link:https://colab.research.google.com/drive/1gBByid9NWLbibJKkGPyGLJs_JDB 33IUP - scrollTo=mxY6z-3rnP8x
+
     
